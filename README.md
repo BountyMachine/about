@@ -5,7 +5,7 @@ A central place to keep track of relevant BountyMachine talks, blogs, and intere
 ## Team
 
 * [@anshuman_bh](https://twitter.com/anshuman_bh)
-* [@_devalias](https://twitter.com/_devalias)
+* Glenn 'devalias' Grant ([@_devalias](https://twitter.com/_devalias))
 * [@mhmdiaa](https://twitter.com/mhmdiaa)
 
 ## Presentations
