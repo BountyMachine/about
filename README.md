@@ -4,7 +4,7 @@ A central place to keep track of relevant BountyMachine talks, blogs, and intere
 
 ## Team
 
-* [@anshuman_bh](https://twitter.com/anshuman_bh)
+* Anshuman Bhartiya ([@anshuman_bh](https://twitter.com/anshuman_bh)): [Blog](https://www.anshumanbhartiya.com/), [GitHub](https://github.com/anshumanbh), [LinkedIn](https://www.linkedin.com/in/anshumanbhartiya/)
 * Glenn 'devalias' Grant ([@_devalias](https://twitter.com/_devalias)): [Blog](https://www.devalias.net/), [Medium](https://medium.com/@devalias), [GitHub](https://github.com/0xdevalias) [LinkedIn](https://www.linkedin.com/in/glenn-devalias-grant/)
 * [@mhmdiaa](https://twitter.com/mhmdiaa)
 
@@ -12,6 +12,8 @@ A central place to keep track of relevant BountyMachine talks, blogs, and intere
 
 Keeping track of presentations about BountyMachine, or relevant related topics by the BountyMachine team.
 
+* `2018-09-27` "Bug Bounty Hunting on Steroids" - @anshuman_bh: [Overview](https://www.rootcon.org/xml/events/rc12/talks#bug_bounty_hunting_on_steroids)
+* `2018-09-16` "Bug Bounty Hunting on Steroids" - @anshuman_bh: [Overview](https://frab.toorcon.net/en/toorcon20/public/events/108)
 * `2018-08-12` "Bug Bounty Hunting on Steroids" - @anshuman_bh, @_devalias: [Overview](http://reconvillage.org/talks-2018/#bug-bounty-hunting-on-steroids---anshuman-bhartiya-and-glenn-devalias-grant), [YouTube](#TODO), [Slides](https://speakerdeck.com/bountymachine/bug-bounty-hunting-on-steroids), [Blog](https://medium.com/@bountymachine/introducing-bountymachine-234cad93b5d2)
 * `2017-11-29` "Automation For Bug Hunters - Bug Bounty Talks" - @mhmdiaa: [YouTube](https://www.youtube.com/watch?v=3Q-QyGlc_Xk), [Slides](https://speakerdeck.com/mhmdiaa/automation-for-bug-hunters)
 * `2017-11-18` "Gophers, whales and.. clouds? Oh my!" - @_devalias: YouTube ([1](https://www.youtube.com/watch?v=Y2W-Kw24Zpg)/[2](https://www.youtube.com/watch?v=adWzygDdQLw)), Slides ([1](https://speakerdeck.com/0xdevalias/gophers-whales-and-dot-clouds-oh-my)/[2](https://www.slideshare.net/GlenndevaliasGrant/gophers-whales-and-clouds-oh-my)), [GitHub](https://github.com/0xdevalias/gopherblazer), [Blog](https://medium.com/@devalias/presenting-all-the-things-bsides-wellington-csides-canberra-sectalks-canberra-ff3bfec6b79a)
