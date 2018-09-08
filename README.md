@@ -5,7 +5,7 @@ A central place to keep track of relevant BountyMachine talks, blogs, and intere
 ## Team
 
 * Anshuman Bhartiya ([@anshuman_bh](https://twitter.com/anshuman_bh)): [Blog](https://www.anshumanbhartiya.com/), [GitHub](https://github.com/anshumanbh), [LinkedIn](https://www.linkedin.com/in/anshumanbhartiya/)
-* Glenn 'devalias' Grant ([@_devalias](https://twitter.com/_devalias)): [Blog](https://www.devalias.net/), [Medium](https://medium.com/@devalias), [GitHub](https://github.com/0xdevalias) [LinkedIn](https://www.linkedin.com/in/glenn-devalias-grant/)
+* Glenn 'devalias' Grant ([@_devalias](https://twitter.com/_devalias)): [Blog](https://www.devalias.net/), [Medium](https://medium.com/@devalias), [GitHub](https://github.com/0xdevalias), [LinkedIn](https://www.linkedin.com/in/glenn-devalias-grant/)
 * [@mhmdiaa](https://twitter.com/mhmdiaa)
 
 ## Presentations
